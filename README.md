@@ -2,7 +2,6 @@
 
 ChatWave is a simple and intuitive chat application developed in Java with a graphical user interface (GUI). It allows users to engage in real-time communication using socket programming. The server defines the IP and port, while the client specifies these details to connect to the desired server. Users can set custom usernames and exchange messages seamlessly.
 
-This project was created as part of the Fundamentals of Networks subject in the BSc in Computer Engineering program at the University of Granada.
 
 ## Features 🌟
 
