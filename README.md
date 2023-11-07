@@ -1,6 +1,6 @@
-# ChatWave: Real-Time Java Chat with GUI 💬🚀
+# Whisp: Real-Time Java Chat with GUI 💬🚀
 
-ChatWave is a simple and intuitive chat application developed in Java with a graphical user interface (GUI). It allows users to engage in real-time communication using socket programming. The server defines the IP and port, while the client specifies these details to connect to the desired server. Users can set custom usernames and exchange messages seamlessly.
+Whisp is a simple and intuitive chat application developed in Java with a graphical user interface (GUI). It allows users to engage in real-time communication using socket programming. The server defines the IP and port, while the client specifies these details to connect to the desired server. Users can set custom usernames and exchange messages seamlessly.
 
 
 ## Features 🌟
@@ -23,7 +23,7 @@ ChatWave is a simple and intuitive chat application developed in Java with a gra
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/footcricket05/ChatWave-Real-Time-Java-Chat-with-GUI.git
+   git clone https://github.com/footcricket05/Whisp.git
    ```
 
 2. Open the server and client Java files in your preferred Java development environment (e.g., Eclipse, IntelliJ IDEA).
